@@ -39,7 +39,6 @@
   .nav-item-background {
     position: relative;
     z-index: 1;
-    background-image: url('/home/riyaz/toursystem (1)/ui/public/background_admin.jpg');
     background-size: cover;
     padding: 10px 15px;
     border-radius: 5px;
