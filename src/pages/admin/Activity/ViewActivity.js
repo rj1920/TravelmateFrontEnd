@@ -185,7 +185,6 @@ const ViewActivity = () => {
                           id="activityActiveStatus"
                           name="activityActiveStatus"
                           type="select"
-                          onChange={(e) => handleChange(e, "activityActiveStatus")}
                           value={activityData.activityActiveStatus}
                           disabled
                         >
